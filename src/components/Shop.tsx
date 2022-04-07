@@ -5,7 +5,7 @@ import {library} from "@fortawesome/fontawesome-svg-core";
 import {faBars} from "@fortawesome/free-solid-svg-icons";
 import Cards from "./Cards";
 // import {ReactComponent as } from "react";
-// import {ReactComponent as List} from "img/list-button-svgrepo-com.svg";
+// import {ReactComponent as List} from "components/list-button-svgrepo-com.svg";
 
 library.add(faBars);
 
